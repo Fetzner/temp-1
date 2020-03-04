@@ -1,3 +1,11 @@
 {
-    "name": "teste"
+  "users": [
+    {
+      "id": 1,
+      "name": "John"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
