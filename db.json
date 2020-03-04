@@ -1,804 +1,422 @@
 [
-    {
-      "users": [
-        {
-          "_id": "5e602dc7bf8d67c68fc932dc",
-          "index": 0,
-          "name": {
-            "first": "Petersen",
-            "last": "Sears"
-          },
-          "students": [
-            15,
-            22,
-            89,
-            40,
-            25
-          ],
-          "city": "Liverpool"
+  {
+    "users": [
+      {
+        "_id": "5e60302021d1e20187fbf679",
+        "index": 0,
+        "name": {
+          "first": "Nadia",
+          "last": "Keller"
         },
-        {
-          "_id": "5e602dc73f2069ccb5c7d0d9",
-          "index": 1,
-          "name": {
-            "first": "Schneider",
-            "last": "Dunn"
-          },
-          "students": [
-            77,
-            25,
-            23,
-            22,
-            60,
-            72
-          ],
-          "city": "London"
+        "students": [
+          74,
+          87,
+          68,
+          28,
+          41,
+          9
+        ],
+        "city": "Manchester"
+      },
+      {
+        "_id": "5e6030203dd0f0f2669ea1bc",
+        "index": 1,
+        "name": {
+          "first": "Leach",
+          "last": "Williams"
         },
-        {
-          "_id": "5e602dc73ba49b2b6c56e721",
-          "index": 2,
-          "name": {
-            "first": "Elena",
-            "last": "Schmidt"
-          },
-          "students": [
-            87,
-            44,
-            15,
-            28,
-            88,
-            41
-          ],
-          "city": "London"
+        "students": [
+          67,
+          51,
+          65,
+          67,
+          82
+        ],
+        "city": "London"
+      },
+      {
+        "_id": "5e6030208ecd5773745ef39c",
+        "index": 2,
+        "name": {
+          "first": "Kay",
+          "last": "Valencia"
         },
-        {
-          "_id": "5e602dc751cb3f0203e0c7a4",
-          "index": 3,
-          "name": {
-            "first": "Bryan",
-            "last": "Holt"
-          },
-          "students": [
-            60,
-            48,
-            42,
-            96,
-            72,
-            44
-          ],
-          "city": "Liverpool"
+        "students": [
+          43,
+          17,
+          51,
+          57,
+          100
+        ],
+        "city": "Liverpool"
+      },
+      {
+        "_id": "5e6030208e3b7514ff288493",
+        "index": 3,
+        "name": {
+          "first": "Kemp",
+          "last": "Mcknight"
         },
-        {
-          "_id": "5e602dc736fd8af288867de4",
-          "index": 4,
-          "name": {
-            "first": "Amelia",
-            "last": "Simon"
-          },
-          "students": [
-            5,
-            30,
-            10,
-            99,
-            29,
-            31
-          ],
-          "city": "Liverpool"
+        "students": [
+          88,
+          93,
+          39,
+          98,
+          20,
+          42
+        ],
+        "city": "London"
+      },
+      {
+        "_id": "5e603020934da7a1f7e759fd",
+        "index": 4,
+        "name": {
+          "first": "Maxine",
+          "last": "Farmer"
         },
-        {
-          "_id": "5e602dc759214a1aa83b4f65",
-          "index": 5,
-          "name": {
-            "first": "Janette",
-            "last": "Berger"
-          },
-          "students": [
-            71,
-            47,
-            58,
-            5,
-            31,
-            67
-          ],
-          "city": "Liverpool"
+        "students": [
+          15,
+          23,
+          38,
+          48,
+          58,
+          45
+        ],
+        "city": "Liverpool"
+      },
+      {
+        "_id": "5e603020fabd21dcd200a2e2",
+        "index": 5,
+        "name": {
+          "first": "Donna",
+          "last": "Dalton"
         },
-        {
-          "_id": "5e602dc792b31fcb348deb37",
-          "index": 6,
-          "name": {
-            "first": "Sharpe",
-            "last": "Black"
-          },
-          "students": [
-            7,
-            20,
-            87,
-            84,
-            44
-          ],
-          "city": "Liverpool"
+        "students": [
+          89,
+          80,
+          75,
+          54,
+          13
+        ],
+        "city": "London"
+      },
+      {
+        "_id": "5e603020839d40e0156b3ce9",
+        "index": 6,
+        "name": {
+          "first": "Kerry",
+          "last": "Ortega"
         },
-        {
-          "_id": "5e602dc7976d51659054390d",
-          "index": 7,
-          "name": {
-            "first": "Mccray",
-            "last": "Miranda"
-          },
-          "students": [
-            29,
-            43,
-            28,
-            64,
-            32,
-            19
-          ],
-          "city": "London"
+        "students": [
+          15,
+          15,
+          54,
+          12,
+          61,
+          16
+        ],
+        "city": "Liverpool"
+      },
+      {
+        "_id": "5e603020deaecfe157a6ac27",
+        "index": 7,
+        "name": {
+          "first": "Lakisha",
+          "last": "Coffey"
         },
-        {
-          "_id": "5e602dc7812f4f425bb2e725",
-          "index": 8,
-          "name": {
-            "first": "Georgia",
-            "last": "Perkins"
-          },
-          "students": [
-            29,
-            19,
-            51,
-            64,
-            75
-          ],
-          "city": "Liverpool"
+        "students": [
+          53,
+          40,
+          73,
+          9,
+          45
+        ],
+        "city": "London"
+      },
+      {
+        "_id": "5e603020d581612ffecfdb9a",
+        "index": 8,
+        "name": {
+          "first": "Sherri",
+          "last": "Gibbs"
         },
-        {
-          "_id": "5e602dc70d1a2df40e78f9b4",
-          "index": 9,
-          "name": {
-            "first": "Addie",
-            "last": "Mccormick"
-          },
-          "students": [
-            42,
-            5,
-            17,
-            27,
-            54
-          ],
-          "city": "Manchester"
+        "students": [
+          51,
+          55,
+          71,
+          79,
+          80,
+          61
+        ],
+        "city": "London"
+      },
+      {
+        "_id": "5e60302000a98524d7883db8",
+        "index": 9,
+        "name": {
+          "first": "Juana",
+          "last": "Aguirre"
         },
-        {
-          "_id": "5e602dc77d2b02ffb36ee6f2",
-          "index": 10,
-          "name": {
-            "first": "Madelyn",
-            "last": "Sweeney"
-          },
-          "students": [
-            92,
-            35,
-            7,
-            78,
-            97,
-            74
-          ],
-          "city": "London"
+        "students": [
+          48,
+          92,
+          91,
+          76,
+          47,
+          76
+        ],
+        "city": "Liverpool"
+      },
+      {
+        "_id": "5e60302086f674198f002287",
+        "index": 10,
+        "name": {
+          "first": "Reyes",
+          "last": "Mckee"
         },
-        {
-          "_id": "5e602dc7748053bb79f9d2fe",
-          "index": 11,
-          "name": {
-            "first": "Robbins",
-            "last": "Cohen"
-          },
-          "students": [
-            33,
-            24,
-            82,
-            81,
-            63,
-            97
-          ],
-          "city": "Manchester"
+        "students": [
+          77,
+          70,
+          53,
+          47,
+          12
+        ],
+        "city": "London"
+      },
+      {
+        "_id": "5e603020c464399edd71b076",
+        "index": 11,
+        "name": {
+          "first": "Coffey",
+          "last": "Padilla"
         },
-        {
-          "_id": "5e602dc76b6e28d4244b753b",
-          "index": 12,
-          "name": {
-            "first": "Tran",
-            "last": "Irwin"
-          },
-          "students": [
-            71,
-            87,
-            76,
-            42,
-            37,
-            75
-          ],
-          "city": "Manchester"
+        "students": [
+          74,
+          85,
+          27,
+          90,
+          53
+        ],
+        "city": "Liverpool"
+      },
+      {
+        "_id": "5e603020160f8a09d834a85e",
+        "index": 12,
+        "name": {
+          "first": "Wanda",
+          "last": "Harmon"
         },
-        {
-          "_id": "5e602dc764254af09655735a",
-          "index": 13,
-          "name": {
-            "first": "Sheena",
-            "last": "Compton"
-          },
-          "students": [
-            99,
-            20,
-            23,
-            31,
-            72
-          ],
-          "city": "Manchester"
+        "students": [
+          46,
+          32,
+          75,
+          24,
+          13,
+          77
+        ],
+        "city": "London"
+      },
+      {
+        "_id": "5e603020b3aafa5abffaf196",
+        "index": 13,
+        "name": {
+          "first": "Alicia",
+          "last": "Fields"
         },
-        {
-          "_id": "5e602dc78e262e15312cea10",
-          "index": 14,
-          "name": {
-            "first": "Duke",
-            "last": "Robbins"
-          },
-          "students": [
-            69,
-            93,
-            46,
-            15,
-            81
-          ],
-          "city": "London"
+        "students": [
+          99,
+          73,
+          91,
+          56,
+          46,
+          40
+        ],
+        "city": "Liverpool"
+      },
+      {
+        "_id": "5e603020dcda2b9c4719d09f",
+        "index": 14,
+        "name": {
+          "first": "Mcguire",
+          "last": "Oneil"
         },
-        {
-          "_id": "5e602dc7068e71c8e67da0f8",
-          "index": 15,
-          "name": {
-            "first": "Molly",
-            "last": "Craig"
-          },
-          "students": [
-            29,
-            57,
-            70,
-            12,
-            38,
-            10
-          ],
-          "city": "Liverpool"
+        "students": [
+          62,
+          35,
+          33,
+          49,
+          13
+        ],
+        "city": "Manchester"
+      },
+      {
+        "_id": "5e603020fa6d5f53e9f2656e",
+        "index": 15,
+        "name": {
+          "first": "Beverly",
+          "last": "Camacho"
         },
-        {
-          "_id": "5e602dc7e358c436f21ef333",
-          "index": 16,
-          "name": {
-            "first": "Sherman",
-            "last": "Jenkins"
-          },
-          "students": [
-            98,
-            84,
-            15,
-            45,
-            59
-          ],
-          "city": "Liverpool"
+        "students": [
+          56,
+          15,
+          44,
+          97,
+          99
+        ],
+        "city": "Liverpool"
+      },
+      {
+        "_id": "5e60302003260cbbe358d5a0",
+        "index": 16,
+        "name": {
+          "first": "Sallie",
+          "last": "Norman"
         },
-        {
-          "_id": "5e602dc71a4fa6ae2967d278",
-          "index": 17,
-          "name": {
-            "first": "Ford",
-            "last": "Flowers"
-          },
-          "students": [
-            80,
-            65,
-            95,
-            62,
-            35,
-            68
-          ],
-          "city": "London"
+        "students": [
+          24,
+          53,
+          48,
+          23,
+          62,
+          84
+        ],
+        "city": "Liverpool"
+      },
+      {
+        "_id": "5e60302032149af68884e039",
+        "index": 17,
+        "name": {
+          "first": "Beth",
+          "last": "Barnett"
         },
-        {
-          "_id": "5e602dc712bf7bc0103ab291",
-          "index": 18,
-          "name": {
-            "first": "Claire",
-            "last": "Dotson"
-          },
-          "students": [
-            22,
-            63,
-            65,
-            100,
-            100,
-            82
-          ],
-          "city": "Liverpool"
+        "students": [
+          100,
+          71,
+          79,
+          54,
+          89
+        ],
+        "city": "Manchester"
+      },
+      {
+        "_id": "5e60302010c223712c2fc594",
+        "index": 18,
+        "name": {
+          "first": "Burnett",
+          "last": "Miranda"
         },
-        {
-          "_id": "5e602dc7abff84166dfe7237",
-          "index": 19,
-          "name": {
-            "first": "Taylor",
-            "last": "Mcmahon"
-          },
-          "students": [
-            25,
-            18,
-            13,
-            5,
-            27
-          ],
-          "city": "Manchester"
+        "students": [
+          64,
+          62,
+          16,
+          95,
+          35,
+          20
+        ],
+        "city": "Liverpool"
+      },
+      {
+        "_id": "5e603020ddb552375dd61baf",
+        "index": 19,
+        "name": {
+          "first": "Dionne",
+          "last": "Soto"
         },
-        {
-          "_id": "5e602dc785f2a2b36b600df0",
-          "index": 20,
-          "name": {
-            "first": "Ramona",
-            "last": "Schneider"
-          },
-          "students": [
-            50,
-            24,
-            24,
-            82,
-            90,
-            96
-          ],
-          "city": "London"
+        "students": [
+          17,
+          57,
+          17,
+          49,
+          57,
+          45
+        ],
+        "city": "Manchester"
+      },
+      {
+        "_id": "5e603020a8c52e9b3df3ac54",
+        "index": 20,
+        "name": {
+          "first": "Frost",
+          "last": "Day"
         },
-        {
-          "_id": "5e602dc791acf2bd4261c502",
-          "index": 21,
-          "name": {
-            "first": "Cornelia",
-            "last": "Mathis"
-          },
-          "students": [
-            89,
-            90,
-            79,
-            51,
-            88,
-            29
-          ],
-          "city": "Liverpool"
+        "students": [
+          35,
+          37,
+          38,
+          77,
+          27,
+          59
+        ],
+        "city": "London"
+      },
+      {
+        "_id": "5e603020b78631385b2764b3",
+        "index": 21,
+        "name": {
+          "first": "Alford",
+          "last": "Dodson"
         },
-        {
-          "_id": "5e602dc7ecfaedb69fa14310",
-          "index": 22,
-          "name": {
-            "first": "Talley",
-            "last": "Payne"
-          },
-          "students": [
-            10,
-            51,
-            85,
-            37,
-            86
-          ],
-          "city": "London"
+        "students": [
+          91,
+          8,
+          60,
+          29,
+          6
+        ],
+        "city": "Manchester"
+      },
+      {
+        "_id": "5e6030203d8ef9f2775ad4e5",
+        "index": 22,
+        "name": {
+          "first": "Swanson",
+          "last": "Lamb"
         },
-        {
-          "_id": "5e602dc74c170568148a3e78",
-          "index": 23,
-          "name": {
-            "first": "Aimee",
-            "last": "Hardin"
-          },
-          "students": [
-            28,
-            81,
-            91,
-            58,
-            39
-          ],
-          "city": "Liverpool"
+        "students": [
+          90,
+          100,
+          54,
+          71,
+          56
+        ],
+        "city": "London"
+      },
+      {
+        "_id": "5e603020992eef3d07be819d",
+        "index": 23,
+        "name": {
+          "first": "Effie",
+          "last": "Avila"
         },
-        {
-          "_id": "5e602dc7d7f4da24129794d7",
-          "index": 24,
-          "name": {
-            "first": "Shelley",
-            "last": "Mccullough"
-          },
-          "students": [
-            71,
-            21,
-            74,
-            83,
-            98,
-            24
-          ],
-          "city": "Liverpool"
+        "students": [
+          42,
+          59,
+          68,
+          9,
+          75,
+          69
+        ],
+        "city": "Manchester"
+      },
+      {
+        "_id": "5e603020afb38f411df46b65",
+        "index": 24,
+        "name": {
+          "first": "Henderson",
+          "last": "Sloan"
         },
-        {
-          "_id": "5e602dc77bbce93c177348fa",
-          "index": 25,
-          "name": {
-            "first": "Dora",
-            "last": "Griffin"
-          },
-          "students": [
-            57,
-            80,
-            29,
-            18,
-            54
-          ],
-          "city": "Manchester"
-        },
-        {
-          "_id": "5e602dc78426b3dfab479fd6",
-          "index": 26,
-          "name": {
-            "first": "Ingrid",
-            "last": "Vincent"
-          },
-          "students": [
-            78,
-            7,
-            31,
-            28,
-            17,
-            73
-          ],
-          "city": "Liverpool"
-        },
-        {
-          "_id": "5e602dc7235947c79b43e55b",
-          "index": 27,
-          "name": {
-            "first": "Jamie",
-            "last": "Phillips"
-          },
-          "students": [
-            79,
-            15,
-            24,
-            11,
-            71
-          ],
-          "city": "Manchester"
-        },
-        {
-          "_id": "5e602dc78f3194af809e8be7",
-          "index": 28,
-          "name": {
-            "first": "Kirkland",
-            "last": "Morgan"
-          },
-          "students": [
-            44,
-            61,
-            100,
-            39,
-            83
-          ],
-          "city": "Manchester"
-        },
-        {
-          "_id": "5e602dc788f0b76abd81ed8c",
-          "index": 29,
-          "name": {
-            "first": "Kate",
-            "last": "Flynn"
-          },
-          "students": [
-            72,
-            83,
-            37,
-            23,
-            31,
-            56
-          ],
-          "city": "Liverpool"
-        },
-        {
-          "_id": "5e602dc712b04a064c178581",
-          "index": 30,
-          "name": {
-            "first": "Deanna",
-            "last": "Riddle"
-          },
-          "students": [
-            68,
-            30,
-            77,
-            69,
-            19
-          ],
-          "city": "Liverpool"
-        },
-        {
-          "_id": "5e602dc7fb6ec494bdbfc08b",
-          "index": 31,
-          "name": {
-            "first": "Rhonda",
-            "last": "Guthrie"
-          },
-          "students": [
-            66,
-            30,
-            80,
-            63,
-            48,
-            8
-          ],
-          "city": "Liverpool"
-        },
-        {
-          "_id": "5e602dc7a6abd5edb32be171",
-          "index": 32,
-          "name": {
-            "first": "Mayer",
-            "last": "Casey"
-          },
-          "students": [
-            33,
-            88,
-            14,
-            12,
-            6
-          ],
-          "city": "Liverpool"
-        },
-        {
-          "_id": "5e602dc792b8683dcdc34277",
-          "index": 33,
-          "name": {
-            "first": "Andrews",
-            "last": "Myers"
-          },
-          "students": [
-            74,
-            61,
-            91,
-            83,
-            26,
-            80
-          ],
-          "city": "Manchester"
-        },
-        {
-          "_id": "5e602dc74903aaae9ef820cc",
-          "index": 34,
-          "name": {
-            "first": "Josephine",
-            "last": "Cotton"
-          },
-          "students": [
-            76,
-            88,
-            16,
-            16,
-            71
-          ],
-          "city": "Liverpool"
-        },
-        {
-          "_id": "5e602dc7553c96e8fa067436",
-          "index": 35,
-          "name": {
-            "first": "Boyle",
-            "last": "Clark"
-          },
-          "students": [
-            92,
-            78,
-            60,
-            63,
-            56,
-            55
-          ],
-          "city": "Manchester"
-        },
-        {
-          "_id": "5e602dc78c0f47a57eaf3073",
-          "index": 36,
-          "name": {
-            "first": "Deleon",
-            "last": "Morrison"
-          },
-          "students": [
-            78,
-            91,
-            68,
-            75,
-            49,
-            34
-          ],
-          "city": "Manchester"
-        },
-        {
-          "_id": "5e602dc791fb7d916a22170b",
-          "index": 37,
-          "name": {
-            "first": "Church",
-            "last": "Pittman"
-          },
-          "students": [
-            71,
-            25,
-            81,
-            36,
-            70
-          ],
-          "city": "Manchester"
-        },
-        {
-          "_id": "5e602dc756d734320dc84fb5",
-          "index": 38,
-          "name": {
-            "first": "Eloise",
-            "last": "Henderson"
-          },
-          "students": [
-            33,
-            22,
-            34,
-            58,
-            84
-          ],
-          "city": "London"
-        },
-        {
-          "_id": "5e602dc7062c0bd7b42bf1c2",
-          "index": 39,
-          "name": {
-            "first": "Alana",
-            "last": "Sharp"
-          },
-          "students": [
-            37,
-            58,
-            76,
-            83,
-            76
-          ],
-          "city": "Liverpool"
-        },
-        {
-          "_id": "5e602dc71ba573cc8c7d15e3",
-          "index": 40,
-          "name": {
-            "first": "Lott",
-            "last": "Cross"
-          },
-          "students": [
-            57,
-            37,
-            12,
-            26,
-            94,
-            59
-          ],
-          "city": "Manchester"
-        },
-        {
-          "_id": "5e602dc7101326535b9bc699",
-          "index": 41,
-          "name": {
-            "first": "Trudy",
-            "last": "Stark"
-          },
-          "students": [
-            39,
-            94,
-            30,
-            85,
-            17,
-            31
-          ],
-          "city": "London"
-        },
-        {
-          "_id": "5e602dc758945f9a77f412b5",
-          "index": 42,
-          "name": {
-            "first": "Lola",
-            "last": "Estes"
-          },
-          "students": [
-            100,
-            95,
-            16,
-            33,
-            53,
-            100
-          ],
-          "city": "Manchester"
-        },
-        {
-          "_id": "5e602dc7a5eda516f953530e",
-          "index": 43,
-          "name": {
-            "first": "Haney",
-            "last": "Park"
-          },
-          "students": [
-            20,
-            46,
-            11,
-            80,
-            57
-          ],
-          "city": "Manchester"
-        },
-        {
-          "_id": "5e602dc75324db726ff20315",
-          "index": 44,
-          "name": {
-            "first": "Reed",
-            "last": "Deleon"
-          },
-          "students": [
-            7,
-            19,
-            8,
-            89,
-            39,
-            8
-          ],
-          "city": "London"
-        },
-        {
-          "_id": "5e602dc710588726e5c61e76",
-          "index": 45,
-          "name": {
-            "first": "Arnold",
-            "last": "Rogers"
-          },
-          "students": [
-            93,
-            85,
-            98,
-            82,
-            85,
-            56
-          ],
-          "city": "Manchester"
-        },
-        {
-          "_id": "5e602dc7ae08f22f72db770e",
-          "index": 46,
-          "name": {
-            "first": "Amy",
-            "last": "Le"
-          },
-          "students": [
-            77,
-            70,
-            85,
-            77,
-            64,
-            39
-          ],
-          "city": "London"
-        },
-        {
-          "_id": "5e602dc70afadc33622a107b",
-          "index": 47,
-          "name": {
-            "first": "Bruce",
-            "last": "Frank"
-          },
-          "students": [
-            94,
-            44,
-            51,
-            14,
-            15
-          ],
-          "city": "Liverpool"
-        }
-      ],
-      "profile": {
-        "name": "typicode"
+        "students": [
+          13,
+          9,
+          9,
+          83,
+          17
+        ],
+        "city": "Manchester"
       }
+    ],
+    "profile": {
+      "name": "typicode"
     }
-  ]
+  }
+]
