@@ -1,287 +1,285 @@
-[
-  {
+{
     "users": [
-      {
-        "image": "https://i.pravatar.cc/150?img=0",
-        "index": 0,
-        "name": {
-          "first": "Kris",
-          "ast": "Rutledge"
+        {
+            "image": "https://i.pravatar.cc/150?img=0",
+            "index": 0,
+            "name": {
+                "first": "Kris",
+                "ast": "Rutledge"
+            },
+            "students": [
+                43,
+                8,
+                27,
+                57,
+                83,
+                40
+            ],
+            "city": "London"
         },
-        "students": [
-          43,
-          8,
-          27,
-          57,
-          83,
-          40
-        ],
-        "city": "London"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=1",
-        "index": 1,
-        "name": {
-          "first": "Summers",
-          "ast": "Stevens"
+        {
+            "image": "https://i.pravatar.cc/150?img=1",
+            "index": 1,
+            "name": {
+                "first": "Summers",
+                "ast": "Stevens"
+            },
+            "students": [
+                26,
+                49,
+                89,
+                33,
+                70,
+                5
+            ],
+            "city": "Manchester"
         },
-        "students": [
-          26,
-          49,
-          89,
-          33,
-          70,
-          5
-        ],
-        "city": "Manchester"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=2",
-        "index": 2,
-        "name": {
-          "first": "Little",
-          "ast": "Webb"
+        {
+            "image": "https://i.pravatar.cc/150?img=2",
+            "index": 2,
+            "name": {
+                "first": "Little",
+                "ast": "Webb"
+            },
+            "students": [
+                11,
+                78,
+                44,
+                68,
+                45,
+                27
+            ],
+            "city": "Liverpool"
         },
-        "students": [
-          11,
-          78,
-          44,
-          68,
-          45,
-          27
-        ],
-        "city": "Liverpool"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=3",
-        "index": 3,
-        "name": {
-          "first": "Marcia",
-          "ast": "Sawyer"
+        {
+            "image": "https://i.pravatar.cc/150?img=3",
+            "index": 3,
+            "name": {
+                "first": "Marcia",
+                "ast": "Sawyer"
+            },
+            "students": [
+                47,
+                73,
+                62,
+                80,
+                71,
+                97
+            ],
+            "city": "London"
         },
-        "students": [
-          47,
-          73,
-          62,
-          80,
-          71,
-          97
-        ],
-        "city": "London"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=4",
-        "index": 4,
-        "name": {
-          "first": "Lessie",
-          "ast": "Hill"
+        {
+            "image": "https://i.pravatar.cc/150?img=4",
+            "index": 4,
+            "name": {
+                "first": "Lessie",
+                "ast": "Hill"
+            },
+            "students": [
+                61,
+                64,
+                56,
+                86,
+                93
+            ],
+            "city": "Manchester"
         },
-        "students": [
-          61,
-          64,
-          56,
-          86,
-          93
-        ],
-        "city": "Manchester"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=5",
-        "index": 5,
-        "name": {
-          "first": "Karla",
-          "ast": "Beck"
+        {
+            "image": "https://i.pravatar.cc/150?img=5",
+            "index": 5,
+            "name": {
+                "first": "Karla",
+                "ast": "Beck"
+            },
+            "students": [
+                84,
+                36,
+                58,
+                23,
+                6
+            ],
+            "city": "Liverpool"
         },
-        "students": [
-          84,
-          36,
-          58,
-          23,
-          6
-        ],
-        "city": "Liverpool"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=6",
-        "index": 6,
-        "name": {
-          "first": "Dillard",
-          "ast": "Clemons"
+        {
+            "image": "https://i.pravatar.cc/150?img=6",
+            "index": 6,
+            "name": {
+                "first": "Dillard",
+                "ast": "Clemons"
+            },
+            "students": [
+                19,
+                71,
+                98,
+                80,
+                21
+            ],
+            "city": "Liverpool"
         },
-        "students": [
-          19,
-          71,
-          98,
-          80,
-          21
-        ],
-        "city": "Liverpool"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=7",
-        "index": 7,
-        "name": {
-          "first": "Howe",
-          "ast": "Hess"
+        {
+            "image": "https://i.pravatar.cc/150?img=7",
+            "index": 7,
+            "name": {
+                "first": "Howe",
+                "ast": "Hess"
+            },
+            "students": [
+                17,
+                62,
+                78,
+                61,
+                59
+            ],
+            "city": "Liverpool"
         },
-        "students": [
-          17,
-          62,
-          78,
-          61,
-          59
-        ],
-        "city": "Liverpool"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=8",
-        "index": 8,
-        "name": {
-          "first": "Kristi",
-          "ast": "Mcconnell"
+        {
+            "image": "https://i.pravatar.cc/150?img=8",
+            "index": 8,
+            "name": {
+                "first": "Kristi",
+                "ast": "Mcconnell"
+            },
+            "students": [
+                63,
+                43,
+                76,
+                44,
+                53
+            ],
+            "city": "London"
         },
-        "students": [
-          63,
-          43,
-          76,
-          44,
-          53
-        ],
-        "city": "London"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=9",
-        "index": 9,
-        "name": {
-          "first": "Tamika",
-          "ast": "Wells"
+        {
+            "image": "https://i.pravatar.cc/150?img=9",
+            "index": 9,
+            "name": {
+                "first": "Tamika",
+                "ast": "Wells"
+            },
+            "students": [
+                72,
+                77,
+                22,
+                62,
+                80
+            ],
+            "city": "Liverpool"
         },
-        "students": [
-          72,
-          77,
-          22,
-          62,
-          80
-        ],
-        "city": "Liverpool"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=10",
-        "index": 10,
-        "name": {
-          "first": "Good",
-          "ast": "Hobbs"
+        {
+            "image": "https://i.pravatar.cc/150?img=10",
+            "index": 10,
+            "name": {
+                "first": "Good",
+                "ast": "Hobbs"
+            },
+            "students": [
+                79,
+                88,
+                100,
+                99,
+                5
+            ],
+            "city": "Manchester"
         },
-        "students": [
-          79,
-          88,
-          100,
-          99,
-          5
-        ],
-        "city": "Manchester"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=11",
-        "index": 11,
-        "name": {
-          "first": "England",
-          "ast": "Santos"
+        {
+            "image": "https://i.pravatar.cc/150?img=11",
+            "index": 11,
+            "name": {
+                "first": "England",
+                "ast": "Santos"
+            },
+            "students": [
+                6,
+                92,
+                49,
+                23,
+                48
+            ],
+            "city": "London"
         },
-        "students": [
-          6,
-          92,
-          49,
-          23,
-          48
-        ],
-        "city": "London"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=12",
-        "index": 12,
-        "name": {
-          "first": "Arline",
-          "ast": "Stanley"
+        {
+            "image": "https://i.pravatar.cc/150?img=12",
+            "index": 12,
+            "name": {
+                "first": "Arline",
+                "ast": "Stanley"
+            },
+            "students": [
+                48,
+                17,
+                10,
+                34,
+                33
+            ],
+            "city": "London"
         },
-        "students": [
-          48,
-          17,
-          10,
-          34,
-          33
-        ],
-        "city": "London"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=13",
-        "index": 13,
-        "name": {
-          "first": "Gena",
-          "ast": "Burton"
+        {
+            "image": "https://i.pravatar.cc/150?img=13",
+            "index": 13,
+            "name": {
+                "first": "Gena",
+                "ast": "Burton"
+            },
+            "students": [
+                10,
+                31,
+                7,
+                52,
+                85
+            ],
+            "city": "Manchester"
         },
-        "students": [
-          10,
-          31,
-          7,
-          52,
-          85
-        ],
-        "city": "Manchester"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=14",
-        "index": 14,
-        "name": {
-          "first": "Rivera",
-          "ast": "Cooley"
+        {
+            "image": "https://i.pravatar.cc/150?img=14",
+            "index": 14,
+            "name": {
+                "first": "Rivera",
+                "ast": "Cooley"
+            },
+            "students": [
+                17,
+                74,
+                46,
+                27,
+                95,
+                59
+            ],
+            "city": "London"
         },
-        "students": [
-          17,
-          74,
-          46,
-          27,
-          95,
-          59
-        ],
-        "city": "London"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=15",
-        "index": 15,
-        "name": {
-          "first": "Fanny",
-          "ast": "Mcknight"
+        {
+            "image": "https://i.pravatar.cc/150?img=15",
+            "index": 15,
+            "name": {
+                "first": "Fanny",
+                "ast": "Mcknight"
+            },
+            "students": [
+                50,
+                50,
+                29,
+                48,
+                63,
+                85
+            ],
+            "city": "Liverpool"
         },
-        "students": [
-          50,
-          50,
-          29,
-          48,
-          63,
-          85
-        ],
-        "city": "Liverpool"
-      },
-      {
-        "image": "https://i.pravatar.cc/150?img=16",
-        "index": 16,
-        "name": {
-          "first": "Susanne",
-          "ast": "Russo"
-        },
-        "students": [
-          54,
-          69,
-          27,
-          72,
-          82
-        ],
-        "city": "Liverpool"
-      }
+        {
+            "image": "https://i.pravatar.cc/150?img=16",
+            "index": 16,
+            "name": {
+                "first": "Susanne",
+                "ast": "Russo"
+            },
+            "students": [
+                54,
+                69,
+                27,
+                72,
+                82
+            ],
+            "city": "Liverpool"
+        }
     ],
     "profile": {
-      "name": "typicode"
+        "name": "typicode"
     }
-  }
-]
+}
