@@ -1,8 +1,7 @@
 {
     "users": [
         {
-            "_id": "5e60302021d1e20187fbf679",
-            "index": 0,
+            "index": 1,
             "name": {
                 "first": "Nadia",
                 "last": "Keller"
