@@ -1,11 +1,11 @@
 {
-    "tutors": [
+    "users": [
         {
             "image": "https://i.pravatar.cc/150?img=0",
             "index": 0,
             "name": {
                 "first": "Kris",
-                "ast": "Rutledge"
+                "last": "Rutledge"
             },
             "students": [
                 43,
@@ -22,7 +22,7 @@
             "index": 1,
             "name": {
                 "first": "Summers",
-                "ast": "Stevens"
+                "last": "Stevens"
             },
             "students": [
                 26,
@@ -39,7 +39,7 @@
             "index": 2,
             "name": {
                 "first": "Little",
-                "ast": "Webb"
+                "last": "Webb"
             },
             "students": [
                 11,
@@ -56,7 +56,7 @@
             "index": 3,
             "name": {
                 "first": "Marcia",
-                "ast": "Sawyer"
+                "last": "Sawyer"
             },
             "students": [
                 47,
@@ -73,7 +73,7 @@
             "index": 4,
             "name": {
                 "first": "Lessie",
-                "ast": "Hill"
+                "last": "Hill"
             },
             "students": [
                 61,
@@ -89,7 +89,7 @@
             "index": 5,
             "name": {
                 "first": "Karla",
-                "ast": "Beck"
+                "last": "Beck"
             },
             "students": [
                 84,
@@ -105,7 +105,7 @@
             "index": 6,
             "name": {
                 "first": "Dillard",
-                "ast": "Clemons"
+                "last": "Clemons"
             },
             "students": [
                 19,
@@ -121,7 +121,7 @@
             "index": 7,
             "name": {
                 "first": "Howe",
-                "ast": "Hess"
+                "last": "Hess"
             },
             "students": [
                 17,
@@ -137,7 +137,7 @@
             "index": 8,
             "name": {
                 "first": "Kristi",
-                "ast": "Mcconnell"
+                "last": "Mcconnell"
             },
             "students": [
                 63,
@@ -153,7 +153,7 @@
             "index": 9,
             "name": {
                 "first": "Tamika",
-                "ast": "Wells"
+                "last": "Wells"
             },
             "students": [
                 72,
@@ -169,7 +169,7 @@
             "index": 10,
             "name": {
                 "first": "Good",
-                "ast": "Hobbs"
+                "last": "Hobbs"
             },
             "students": [
                 79,
@@ -185,7 +185,7 @@
             "index": 11,
             "name": {
                 "first": "England",
-                "ast": "Santos"
+                "last": "Santos"
             },
             "students": [
                 6,
@@ -201,7 +201,7 @@
             "index": 12,
             "name": {
                 "first": "Arline",
-                "ast": "Stanley"
+                "last": "Stanley"
             },
             "students": [
                 48,
@@ -217,7 +217,7 @@
             "index": 13,
             "name": {
                 "first": "Gena",
-                "ast": "Burton"
+                "last": "Burton"
             },
             "students": [
                 10,
@@ -233,7 +233,7 @@
             "index": 14,
             "name": {
                 "first": "Rivera",
-                "ast": "Cooley"
+                "last": "Cooley"
             },
             "students": [
                 17,
@@ -250,7 +250,7 @@
             "index": 15,
             "name": {
                 "first": "Fanny",
-                "ast": "Mcknight"
+                "last": "Mcknight"
             },
             "students": [
                 50,
@@ -267,7 +267,7 @@
             "index": 16,
             "name": {
                 "first": "Susanne",
-                "ast": "Russo"
+                "last": "Russo"
             },
             "students": [
                 54,
