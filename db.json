@@ -1,25 +1,24 @@
-  {
+{
     "users": [
-      {
-        "_id": "5e60302021d1e20187fbf679",
-        "index": 0,
-        "name": {
-          "first": "Nadia",
-          "last": "Keller"
-        },
-        "students": [
-          74,
-          87,
-          68,
-          28,
-          41,
-          9
-        ],
-        "city": "Manchester"
-      }
+        {
+            "_id": "5e60302021d1e20187fbf679",
+            "index": 0,
+            "name": {
+                "first": "Nadia",
+                "last": "Keller"
+            },
+            "students": [
+                74,
+                87,
+                68,
+                28,
+                41,
+                9
+            ],
+            "city": "Manchester"
+        }
     ],
     "profile": {
-      "name": "typicode"
+        "name": "typicode"
     }
-  }
-
+}
