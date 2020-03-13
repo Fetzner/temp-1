@@ -5,33 +5,37 @@
     "paths": {
         "starting_node": "ABCD",
         "paths": [
-            'ABCD': {
-                "latency": 3427,
-                "path": [
-                    "ABCD",
-                    "ABCE",
-                    "ABCF",
-                    "ABCG"
-                ]
-            },
             {
-                "latency": 5645342,
-                "path": [
-                    "ABCD",
-                    "ABCH",
-                    "ABCI",
-                    "ABCJ"
-                ]
-            },
-            {
-                "latency": 34235,
-                "path": [
-                    "ABCD",
-                    "ABCH",
-                    "ABCI",
-                    "ABCK",
-                    "ABCL",
-                    "ABCM"
+                'ABCD': [
+                    {
+                        "latency": 3427,
+                        "path": [
+                            "ABCD",
+                            "ABCE",
+                            "ABCF",
+                            "ABCG"
+                        ]
+                    },
+                    {
+                        "latency": 5645342,
+                        "path": [
+                            "ABCD",
+                            "ABCH",
+                            "ABCI",
+                            "ABCJ"
+                        ]
+                    },
+                    {
+                        "latency": 34235,
+                        "path": [
+                            "ABCD",
+                            "ABCH",
+                            "ABCI",
+                            "ABCK",
+                            "ABCL",
+                            "ABCM"
+                        ]
+                    }
                 ]
             }
         ]
