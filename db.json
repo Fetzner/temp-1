@@ -2,7 +2,7 @@
     "starting-node": {
         "starting_node": "ABCD"
     },
-    "teste": [
+    "paths": [
         {
             "id": "ABCD",
             "starting_node": "ABCD",
@@ -37,94 +37,30 @@
                     ]
                 }
             ]
-        },
+        }
+    ],
+    "lowest-time": [
         {
-            "id": "ABCE",
-            "starting_node": "ABCD",
-            "paths": [
-                {
-                    "latency": 3427,
-                    "path": [
-                        "ABCD",
-                        "ABCE",
-                        "ABCF",
-                        "ABCG"
-                    ]
-                },
-                {
-                    "latency": 5645342,
-                    "path": [
-                        "ABCD",
-                        "ABCH",
-                        "ABCI",
-                        "ABCJ"
-                    ]
-                },
-                {
-                    "latency": 34235,
-                    "path": [
-                        "ABCD",
-                        "ABCH",
-                        "ABCI",
-                        "ABCK",
-                        "ABCL",
-                        "ABCM"
-                    ]
-                }
+            "id": "ABCD",
+            "latency": 3427,
+            "path": [
+                "ABCD",
+                "ABCE",
+                "ABCF",
+                "ABCG"
             ]
         }
     ],
-    "paths": {
-        "id": "ABCE",
-        "starting_node": "ABCD",
-        "paths": [
-            {
-                "latency": 3427,
-                "path": [
-                    "ABCD",
-                    "ABCE",
-                    "ABCF",
-                    "ABCG"
-                ]
-            },
-            {
-                "latency": 5645342,
-                "path": [
-                    "ABCD",
-                    "ABCH",
-                    "ABCI",
-                    "ABCJ"
-                ]
-            },
-            {
-                "latency": 34235,
-                "path": [
-                    "ABCD",
-                    "ABCH",
-                    "ABCI",
-                    "ABCK",
-                    "ABCL",
-                    "ABCM"
-                ]
-            }
-        ]
-    },
-    "lowest-time": {
-        "latency": 3427,
-        "path": [
-            "ABCD",
-            "ABCE",
-            "ABCF",
-            "ABCG"
-        ]
-    },
-    "highest-time": {
-        "latency": 5645342,
-        "path": [
-            "ABCD",
-            "ABCH",
-            "ABCI",
-            "ABCJ"
-        ]
-    }
+    "highest-time": [
+        {
+            "id": "ABCD",
+            "latency": 5645342,
+            "path": [
+                "ABCD",
+                "ABCH",
+                "ABCI",
+                "ABCJ"
+            ]
+        }
+    ]
 }
