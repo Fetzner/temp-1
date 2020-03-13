@@ -5,7 +5,7 @@
     "paths": {
         "starting_node": "ABCD",
         "paths": [
-            {
+            'ABCD': {
                 "latency": 3427,
                 "path": [
                     "ABCD",
